@@ -8,7 +8,7 @@ class App extends Component {
 
     this.state= {
       name: {firstName: 'Vanessa',  lastName: 'Sibley'},
-      company: 'Two Barrells',
+      company: 'XYP.corp',
     };
   }
 
